@@ -1,1 +1,3 @@
-Ruby Practices - Read File and Web Scraping
+###Reading and parsing some CSV files and join specific info in other CSV file
+
+###Web Scraping Example 
